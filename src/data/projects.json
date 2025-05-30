@@ -1,0 +1,4 @@
+[
+    { "id": 1, "title": "Project 1", "description": "A cool project", "link": "https://github.com", "image": "/images/project1.jpg" },
+    { "id": 2, "title": "Project 2", "description": "Another cool project", "link": "https://github.com", "image": "/images/project2.jpg" }
+  ]
