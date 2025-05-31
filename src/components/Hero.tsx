@@ -59,13 +59,13 @@ const Hero = () => {
 
         {/* Profile Image - Your original positioning */}
         <div className="absolute inset-0 flex items-center justify-center pt-20 md:pt-0">
-          <div className="relative">
+          {/* <div className="relative">
             <img
               src="/images/myimage.png"
               alt="Awais Afzal"
               className="object-cover rounded-lg"
             />
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
